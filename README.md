@@ -1,0 +1,2 @@
+# SpringCoreApp
+Spring core application 
